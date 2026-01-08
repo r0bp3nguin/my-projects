@@ -8,7 +8,7 @@ Application web de comparaison d'images de matériaux développée pour un conte
 
 Projet développé en équipe de 2 personnes, dans lequel je me suis particulièrement intéressé au déploiement Docker et à l'infrastructure de containerisation.
 
-
+ 
 ## Architecture technique
 
 Application développée avec un backend Python et un frontend React/TypeScript.
