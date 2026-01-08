@@ -3,7 +3,7 @@
 - [Aspirateur Miniature](aspirateurMiniature/aspirateurReadme.md)
 - [Distributeur d'Engrais Automatique](distributeurEngraisAutomatique/distributeurReadme.md)
 - [Application Cross Training Garmin](garminCrossTrainingApp/crossTrainingAppREADME.md)
-- [FCI Comparator](comparateurImageFCI-B2B/fci-comparatorReadme.md)
+- [B2B Image comparator](comparateurImageFCI-B2B/fci-comparatorReadme.md)
 
 ---
 
